@@ -26,5 +26,3 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=py,java,js,go,django,flask,react,gcp,aws,github,git,mysql,nginx,postgres,redis,ubuntu)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
