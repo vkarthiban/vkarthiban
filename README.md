@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karthiban-vediraj-28091b143) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=py, java, js, go, django, flask, react, gcp, github, git, mysql, nginx, postgres, redis, ubuntu&perline=3)]
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,go,django,flask,react,gcp,github,git,mysql,nginx,postgres,redis,ubuntu&perline=3)]
