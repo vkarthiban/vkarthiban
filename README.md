@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karthiban-vediraj-28091b143) 
 
 # 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=py,java,js,go,django,flask,react,gcp,aws,github,git,mysql,nginx,postgres,redis,ubuntu)[Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=py,java,js,go,django,flask,react,gcp,aws,github,git,mysql,nginx,postgres,redis,ubuntu)
+(https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
