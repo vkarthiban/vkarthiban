@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karthiban-vediraj-28091b143) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/[https://www.linkedin.com/in/karthiban-vediraj-28091b143](https://in.linkedin.com/in/karthiban-vediraj-28091b143?trk=people-guest_people_search-card)) 
 
 # 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=py,java,js,go,django,flask,react,gcp,aws,github,git,mysql,nginx,postgres,redis,ubuntu)
