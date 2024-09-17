@@ -26,5 +26,3 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=py,java,js,go,django,flask,react,gcp,aws,github,git,mysql,nginx,postgres,redis,ubuntu)
-
-![vkarthiban's Stats](https://github-readme-stats.vercel.app/api?username=vkarthiban&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
