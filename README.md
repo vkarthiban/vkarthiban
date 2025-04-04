@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 # 💫 About Me:
-<br><br><br>🔭 I’m currently OCR based DSL(domain specific language) Compiler <br>👯 I’m looking to collaborate on freelance <br>💬 Ask me about python,JAVA,cloud and tech stuff<br>
+<br><br><br>🔭 I’m currently working on OCR based DSL(domain specific language) Compiler <br>👯 I’m looking to collaborate on freelance <br>💬 Ask me about python,JAVA,cloud and tech stuff<br>
 
 
 ## 🌐 Socials:
